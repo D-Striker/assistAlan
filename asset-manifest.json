@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/assistAlan/static/css/main.2924db9f.css",
+    "main.js": "/assistAlan/static/js/main.8eda4dbf.js",
+    "index.html": "/assistAlan/index.html",
+    "main.2924db9f.css.map": "/assistAlan/static/css/main.2924db9f.css.map",
+    "main.8eda4dbf.js.map": "/assistAlan/static/js/main.8eda4dbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2924db9f.css",
+    "static/js/main.8eda4dbf.js"
+  ]
+}
